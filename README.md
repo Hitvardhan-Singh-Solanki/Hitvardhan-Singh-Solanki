@@ -2,7 +2,7 @@
 
 ## Senior FullStack Software Engineer
 
-Barcelona, Spain | (+34)673477134 | hitvardhan19@gmail.com | [LinkedIn](https://www.linkedin.com/in/hitvardhan)
+Barcelona, Spain | hitvardhan19@gmail.com | [LinkedIn](https://www.linkedin.com/in/hitvardhan)
 
 ---
 
