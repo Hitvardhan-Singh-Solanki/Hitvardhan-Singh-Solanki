@@ -6,6 +6,8 @@ Barcelona, Spain | hitvardhan19@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 ---
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/hvs_19)
+
 ## About Me
 
 Experienced software developer with seven years of expertise in web engineering, adept at delivering innovative solutions. Recognized for developing a vendor onboarding solution that increased satisfaction scores by 60%, resulting in €1.5 million in cost savings. Versatile and adaptable, with a strong track record in startup and multinational corporate environments. Passionate about driving excellence and leveraging technology to exceed expectations.
