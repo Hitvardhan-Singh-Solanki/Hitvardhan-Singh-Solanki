@@ -6,7 +6,7 @@ Barcelona, Spain | hitvardhan19@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 ---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hvs_19)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hvs_19?ext=heatmap)
 
 ## About Me
 
