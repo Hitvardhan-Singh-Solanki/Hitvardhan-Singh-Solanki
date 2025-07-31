@@ -10,7 +10,7 @@ Barcelona, Spain | hitvardhan19@gmail.com | [LinkedIn](https://www.linkedin.com/
 
 ## About Me
 
-Experienced software developer with seven years of expertise in web engineering, adept at delivering innovative solutions. Recognized for developing a vendor onboarding solution that increased satisfaction scores by 60%, resulting in €1.5 million in cost savings. Versatile and adaptable, with a strong track record in startup and multinational corporate environments. Passionate about driving excellence and leveraging technology to exceed expectations.
+Experienced software developer with a decade of expertise in web engineering, adept at delivering innovative solutions. Recognized for developing a vendor onboarding solution that increased satisfaction scores by 60%, resulting in €1.5 million in cost savings. Versatile and adaptable, with a strong track record in startup and multinational corporate environments. Passionate about driving excellence and leveraging technology to exceed expectations.
 
 ## Technical Skills
 
@@ -39,8 +39,19 @@ Experienced software developer with seven years of expertise in web engineering,
 ## Work Experience
 
 ### Software Engineer, Full Stack
+#### [EQS](https://www.eqs.com) - Worlds leading compliance and whistle blowing platform
+April 2024 - Present
+
+- Actively playing the leader role in the cross team development and maintenance of the compliance tool and whistle blowing platform. I have been responsible for
+the development of a new feature that enables the user to view the compliance status of all the customers in the system.
+- I have been on maintaining the standards of monitoring and alerting, ensuring that the system is always up to date with the latest security standards and best
+practices.
+- Work on the state of the art compliance tool & whistle blowing platform
+- Tech Stack: AngularJS, Node.js & MySQL
+
+### Software Engineer, Full Stack
 #### [Glovo](https://www.glovoapp.com) - Spain's Leading Quick Commerce app
-February 2022 - Present
+February 2022 - April 2024
 
 - Facilitating partners in acquiring enhanced daily operational insights through the development of a tailored solution aligned with their requirements. The project, characterized by a data-driven approach, has yielded a notable 60% increase in partner satisfaction survey results.
 - Actively engaged in the development of an automated messaging system facilitating seamless communication between agents and partners, thereby enhancing accessibility and resulting in a cost-saving of €7/minute on partner calls.
