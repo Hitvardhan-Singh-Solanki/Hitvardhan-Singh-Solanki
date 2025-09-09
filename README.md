@@ -36,6 +36,11 @@ Experienced software developer with a decade of expertise in web engineering, ad
 - Reduced KYC processing time from 7 days to 2 hours.
 - Received numerous awards for outstanding performance.
 
+## Articles
+
+(Building a RAG app)[https://medium.com/@hitvardhan19/building-a-rag-backend-for-legal-document-interaction-what-i-learned-and-survived-e306724592cb]
+(Undestanding consensus protocols)[https://medium.com/@hitvardhan19/understanding-consensus-protocols-paxos-raft-zab-and-why-they-matter-215e33edd919]
+
 ## Work Experience
 
 ### Software Engineer, Full Stack
